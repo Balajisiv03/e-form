@@ -1,0 +1,31 @@
+ .auth-section{
+     min-height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+ */
+ }
+  
+
+.box{
+    width: 500px;
+    height: 300px;
+    border: 2px solid black; 
+    border-radius: 10px;
+    margin: 20px;
+    /* background-color: rgb(130, 135, 135); */
+}
+
+p{
+    margin: 10px;
+}
+
+.App{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background-color: #5d6167; */
+}
+
+.Updateinput{
+    width: 100px;
+    height: 20px;
+}

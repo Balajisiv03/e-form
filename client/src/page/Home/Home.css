@@ -1,0 +1,31 @@
+
+
+.btn{
+    padding: 10px 120px;
+    margin: 10px 20px;
+    border-radius: 15px;
+    margin-left: 610px;
+}
+
+.btn:hover{
+    color: rgb(169, 162, 162);
+    border-radius: 20px;
+    transform: scale(1);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    margin: 15px 10px;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+input:hover{
+    background-color: rgb(215, 209, 209);
+    transform: scale(1.1);
+    border-color: black;
+}
